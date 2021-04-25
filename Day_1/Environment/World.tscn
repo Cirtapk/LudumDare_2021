@@ -19,3 +19,5 @@ position = Vector2( -560, 0 )
 scale = Vector2( 4.375, 36.0938 )
 z_index = 5
 flip_h = true
+
+[node name="StoryChunks" type="Node" parent="."]
